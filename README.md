@@ -1,5 +1,7 @@
 # BiasBloom Corpus
 
+[![DOI](https://zenodo.org/badge/894534760.svg)](https://doi.org/10.5281/zenodo.14264607)
+
 The **BiasBloom Corpus** is a structured collection of prompts and outputs from various generative language models, curated to study bias and performance across different configurations. The corpus is divided into two main sections based on prompt formatting:
 
 1. **Leading Prompts**: A leading prompt is one designed in a way that suggests or implies a specific answer or direction. That is, it can guide a model towards a particular conclusion, in this case towards gender biases.
